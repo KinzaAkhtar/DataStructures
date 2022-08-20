@@ -1,0 +1,8 @@
+Notes:
+1^In linked list only sequencial access is possible we can not random access
+2^Accessing of any elelment neeed O(n) time complexity.In array it is O(1)
+3^Insertion and deletion is easy
+4^Linked list is linear data structure that are stored at non consecutive memory locations
+5^Some extra space is required to store the pointers
+6^Binary search is not possible(we can not go directly to middle element)
+7^It is of dynamic size
