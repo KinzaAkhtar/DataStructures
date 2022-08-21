@@ -1,0 +1,1 @@
+Static stack has a fixed size and is implemented as array. 
