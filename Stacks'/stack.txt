@@ -1,0 +1,30 @@
+DEFINITION:
+Stack is linear data structure.Data can insert or remove only using one end of the stack. e.g. Books arrange on a self,plates place on each other, CD holder holding cds
+
+PRINCIPLE:
+Last in First out (LIFO)
+
+APPLICATIONS:
+There are many applications of stacks in computer following are most common
+1.Balancing of paranthesis check
+2.Undo utility 
+3.Infix to postfix
+4.Infix to prefix
+5.Reverse an string/array
+
+IMPLEMENTING STACKS:
+We can implement stacks using arrays and linked list.If an stack is implemented using array then it will be called static array and if we implement using linked list then it will be called dynamic array.
+
+IMPORTANT FUNCTIONS ON STACK:
+1.push()
+   It is used to insert data in the stack
+2.pop()
+   It is used to remove data from the top of the stack
+3.capacity()
+    return the remaining capacity of the stack
+4.maxcapacity()
+    Return the total size that stack can consist
+5.isempty()
+    Return True if stack is emppty
+6.isfull()
+    Return True if stack is full
